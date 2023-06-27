@@ -75,3 +75,5 @@ group :test do
   gem 'guard'
   gem 'guard-minitest'
 end
+
+gem "dockerfile-rails", ">= 1.5", :group => :development
